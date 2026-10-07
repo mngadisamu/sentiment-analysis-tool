@@ -1,0 +1,31 @@
+tweet_id,airline_sentiment,negativereason,airline,tweet_created,text
+1,positive,,Delta,2015-02-17 09:12:00 -0800,@Delta thanks for the smooth flight and the friendly crew! #happy
+2,negative,Late Flight,United,2015-02-17 11:40:00 -0800,@United delayed again for 3 hours. Terrible service. http://t.co/abc
+3,neutral,,American,2015-02-17 14:05:00 -0800,@AmericanAir what time does the gate open for flight 221?
+4,negative,Lost Luggage,Southwest,2015-02-18 08:30:00 -0800,@SouthwestAir you lost my bag and nobody will help me. So frustrated.
+5,positive,,Southwest,2015-02-18 10:15:00 -0800,@SouthwestAir best airline ever. Loved the quick boarding!
+6,negative,Customer Service Issue,US Airways,2015-02-18 13:20:00 -0800,@USAirways rude agent at the desk. Awful experience.
+7,neutral,,Delta,2015-02-19 07:45:00 -0800,@Delta Is there wifi on the A320?
+8,positive,,Virgin America,2015-02-19 12:00:00 -0800,@VirginAmerica great seats and a really comfortable flight. Thank you!
+9,negative,Late Flight,American,2015-02-19 16:10:00 -0800,@AmericanAir stuck on the runway for two hours. Unacceptable.
+10,neutral,,United,2015-02-20 09:00:00 -0800,@United just landed in Chicago.
+11,negative,late flight,United,2015-02-20 11:25:00 -0800,@united gate change and a two hour delay. Not happy at all.
+12,negative,Lost Luggage,Delta ,2015-02-20 15:50:00 -0800,@Delta my suitcase never arrived. This is the worst.
+13,positive,,Delta,2015-02-21 08:05:00 -0800,@Delta lovely crew and an early arrival. Great job!
+14,negative,Customer Service Issue,American,2015-02-21 10:30:00 -0800,@AmericanAir been on hold for an hour. Nobody answers. Terrible.
+15,neutral,,Southwest,2015-02-21 13:15:00 -0800,@SouthwestAir can I change my seat online?
+16,positive,,United,2015-02-21 17:40:00 -0800,@United the staff were so helpful today. Thank you!
+17,negative,Late Flight,US Airways,2015-02-22 07:20:00 -0800,@USAirways flight cancelled and no one will explain why. Awful.
+18,positive,,Virgin America,2015-02-22 11:55:00 -0800,@VirginAmerica love the new cabin lights. Beautiful flight!
+19,neutral,,American,2015-02-22 14:30:00 -0800,@AmericanAir where do I find my booking reference?
+20,negative,Bad Flight,Southwest,2015-02-22 18:05:00 -0800,@SouthwestAir rough flight and a very rude cabin crew. Disappointed.
+21,negative,Late Flight,Delta,2015-02-23 08:40:00 -0800,@Delta delayed again. Worst airline experience ever.
+22,positive,,Southwest,2015-02-23 12:10:00 -0800,@SouthwestAir amazing service. Thanks for getting me home early!
+23,neutral,,United,2015-02-23 15:25:00 -0800,@United checking in now for flight 88.
+24,negative,Customer Service Issue,United,2015-02-23 17:45:00 -0800,@united the agent was rude and unhelpful. Horrible service.
+25,positive,,American,2015-02-24 09:35:00 -0800,@AmericanAir smooth flight and great snacks. Thanks!
+26,negative,Lost Luggage,US Airways,2015-02-24 11:00:00 -0800,@USAirways lost my bags again. So angry right now.
+27,neutral,,Virgin America,2015-02-24 13:50:00 -0800,@VirginAmerica does the flight to LAX have meals?
+6,negative,Customer Service Issue,US Airways,2015-02-18 13:20:00 -0800,@USAirways rude agent at the desk. Awful experience.
+29,neutral,,Delta,2015-02-24 15:00:00 -0800,
+30,positive,,Delta,2015-02-24 16:20:00 -0800,@Delta fantastic landing and a friendly welcome. Happy customer!
