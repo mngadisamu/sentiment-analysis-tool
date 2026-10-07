@@ -1,5 +1,7 @@
 # Sentiment Analysis Tool
-Live app: https://samukelo-sentiment-analysis-tool.streamlit.app/
+**Live app:** [samukelo-sentiment-analysis-tool.streamlit.app](https://samukelo-sentiment-analysis-tool.streamlit.app/)
+
+**Documents:** [Insights Report](Insights-Report.pdf) | [Technical Explanation](Technical-Explanation.pdf)
 
 Upload a CSV of written comments (tweets, reviews, survey answers). The tool checks the file, cleans it, labels every comment as **positive**, **neutral** or **negative**, shows a dashboard, and writes a report you can download. It works on any CSV with a column of text, not only airline tweets.
 
