@@ -1,11 +1,15 @@
 # Sentiment Analysis Tool
-**Live app:** [samukelo-sentiment-analysis-tool.streamlit.app](https://samukelo-sentiment-analysis-tool.streamlit.app/)
-
-**Documents:** [Insights Report](Insights-Report.pdf) | [Technical Explanation](Technical-Explanation.pdf)
 
 Upload a CSV of written comments (tweets, reviews, survey answers). The tool checks the file, cleans it, labels every comment as **positive**, **neutral** or **negative**, shows a dashboard, and writes a report you can download. It works on any CSV with a column of text, not only airline tweets.
 
 Built for Week 3 of the CAPACITI x Clickatell AI Bootcamp (April 2026).
+
+**Live app:** [samukelo-sentiment-analysis-tool.streamlit.app](https://samukelo-sentiment-analysis-tool.streamlit.app/)
+
+## Documents
+
+* [Insights report (PDF)](docs/Insights-Report.pdf): what the tool found in 14,604 airline tweets
+* [Technical explanation (PDF)](docs/Technical-Explanation.pdf): how the tool works, why a rule-based method was chosen, and its limits
 
 ## What it does
 
